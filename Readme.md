@@ -24,13 +24,3 @@ How many symbols do you want in your password? 2
 Your password is: EDUpEYIG67*@
 
 ```
-
-# Hint
-
-- Use choice() function from random module to select random character from letters, nums or symbols.
-
-
-
-# Solution
-
-[https://replit.com/@AppMillers/Project-18-Password-Generator-Solution](https://replit.com/@AppMillers/Project-18-Password-Generator-Solution)
