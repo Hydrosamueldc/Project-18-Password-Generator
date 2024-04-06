@@ -32,5 +32,6 @@ for apd in password_list:
     advance_password += apd
 
 print(f"Your advance_password is: {advance_password}")
+print("Thank you")
 
 
